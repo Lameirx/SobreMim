@@ -1,4 +1,4 @@
-# Olá, sou Lameirx
+# Olá, sou Lameirx (ou apenas Honey)
 
 Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas (UBC) com foco em Front-end, UX/UI Design e desenvolvimento web interativo. Desenvolvo interfaces na web desde novo, unindo raciocínio lógico com apelo visual.
 
